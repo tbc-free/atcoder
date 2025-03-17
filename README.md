@@ -1,7 +1,7 @@
 # atcoder
-atcoderで自分が復習したこと
+atcoderの復習したことを書いています。
+自分用のメモなので日本語がおかしいところがあります。
 
-自分のatcoderアカウント
-
+自分のatcoderアカウント↓
 
 https://atcoder.jp/users/tbc1111
